@@ -1,0 +1,6 @@
+{
+  "name": "Emmar al shimal - Property & Key Management",
+  "description": "Enterprise apartment, tenant, key custody, and rental management system for Emmar al shimal across Erbil and Mosul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
